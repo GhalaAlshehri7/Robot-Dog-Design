@@ -7,5 +7,4 @@ This project is a simple robot dog design made using Tinkercad.
 - Design Images
 - STL Model
 
-Created by:
-Ghala Alshehri
+Created by Ghala Alshehri

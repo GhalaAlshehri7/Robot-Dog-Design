@@ -9,5 +9,3 @@ This project is a simple robot dog design made using Tinkercad.
 
 Created by:
 Ghala Alshehri
-
-Thank you!
